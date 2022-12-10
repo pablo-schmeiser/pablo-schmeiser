@@ -70,7 +70,7 @@ I am a third semester Computer Science student at [Karlsruher Institute of Techn
 <img src="https://github-readme-stats.vercel.app/api?username=pablo-schmeiser&show_icons=true&include_all_commits" />
 </picture>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-schmeiser&layout=compact&theme=monokai&bg_color=00000000) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-schmeiser&layout=compact&theme=monokai&bg_color=00000000)
 
 <!-- [<img src="https://github-profile-trophy.vercel.app/?username=pablo-schmeiser&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy) -->
 
