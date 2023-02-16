@@ -1,4 +1,4 @@
-### Hi there, I'm [Pablo Schmeiser](https://pablo-schmeiser.github.io) 👋
+### Hi there, I'm [Pablo Schmeiser](https://pablo-schmeiser.github.io) <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a third semester Computer Science student at [Karlsruher Institute of Technology](https://kit.edu), Germany.
 
@@ -12,9 +12,6 @@ I am a third semester Computer Science student at [Karlsruher Institute of Techn
 - any collobration work,
 - internships and
 - available to become reviewer on GitHub projects.
-
-**Service to research comunity**:
-- Studying at the Karlsruher Institute of Technology
 
 ## Skills:
 
