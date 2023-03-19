@@ -76,9 +76,11 @@ I am a third semester Computer Science student at [Karlsruher Institute of Techn
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/pablo_smr52)
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pablo-schmeiser&show_icons=true&theme=monokai&bg_color=00000000&include_all_commits")&nbsp;
+![](https://raw.githubusercontent.com/pablo-schmeiser/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/pablo-schmeiser/github-stats/master/generated/overview.svg#gh-light-mode-only)&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-schmeiser&layout=compact&theme=monokai&bg_color=00000000)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)&nbsp;
 
 <!-- [<img src="https://github-profile-trophy.vercel.app/?username=pablo-schmeiser&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy) -->
 
