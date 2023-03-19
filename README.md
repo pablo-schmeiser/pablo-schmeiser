@@ -77,10 +77,10 @@ I am a third semester Computer Science student at [Karlsruher Institute of Techn
 </p>
 
 ![](https://raw.githubusercontent.com/pablo-schmeiser/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/pablo-schmeiser/github-stats/master/generated/overview.svg#gh-light-mode-only)&nbsp;
+![](https://raw.githubusercontent.com/pablo-schmeiser/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)&nbsp;
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!-- [<img src="https://github-profile-trophy.vercel.app/?username=pablo-schmeiser&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy) -->
 
