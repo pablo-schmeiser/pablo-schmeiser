@@ -68,6 +68,10 @@ I am a third semester Computer Science student at [Karlsruher Institute of Techn
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/pablo-schmeiser-691630208/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/pablo_smr52)
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p float="left">
   <img src ="https://raw.githubusercontent.com/pablo-schmeiser/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
   <img src ="https://raw.githubusercontent.com/pablo-schmeiser/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
@@ -77,17 +81,3 @@ I am a third semester Computer Science student at [Karlsruher Institute of Techn
 </p>
 
 <!-- [<img src="https://github-profile-trophy.vercel.app/?username=pablo-schmeiser&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy) -->
-
-
-<!--
-**themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
