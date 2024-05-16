@@ -70,6 +70,14 @@ I am a third semester Computer Science student at [Karlsruher Institute of Techn
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Rust       2 mins          ███████████▓░░░░░░░░░░░░░   47.00 %
+Markdown   1 min           ████████▓░░░░░░░░░░░░░░░░   34.67 %
+C          0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+HTML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+```
+
 <!--END_SECTION:waka-->
 
 <p float="left">
