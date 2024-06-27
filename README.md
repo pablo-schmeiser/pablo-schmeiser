@@ -72,15 +72,15 @@ I am a third semester Computer Science student at [Karlsruher Institute of Techn
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 April 2024 - To: 24 June 2024
+From: 09 April 2024 - To: 25 June 2024
 
-Total Time: 76 hrs 59 mins
+Total Time: 80 hrs 26 mins
 
-C             31 hrs 21 mins  >>>>>>>>>>---------------   40.72 %
-C++           25 hrs 50 mins  >>>>>>>>-----------------   33.55 %
-Rust          16 hrs 7 mins   >>>>>--------------------   20.95 %
-Markdown      1 hr 9 mins     -------------------------   01.51 %
-Text          1 hr 5 mins     -------------------------   01.41 %
+C             31 hrs 21 mins  >>>>>>>>>>---------------   38.98 %
+C++           25 hrs 50 mins  >>>>>>>>-----------------   32.12 %
+Rust          19 hrs 29 mins  >>>>>>-------------------   24.23 %
+Markdown      1 hr 11 mins    -------------------------   01.48 %
+Text          1 hr 5 mins     -------------------------   01.35 %
 ```
 
 <!--END_SECTION:waka-->
