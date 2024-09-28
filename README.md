@@ -72,7 +72,7 @@ I am a third semester Computer Science student at [Karlsruher Institute of Techn
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 April 2024 - To: 25 September 2024
+From: 09 April 2024 - To: 26 September 2024
 
 Total Time: 102 hrs
 
