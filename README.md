@@ -72,15 +72,15 @@ I am a seventh semester Computer Science student at [Karlsruher Institute of Tec
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 April 2024 - To: 27 November 2024
+From: 09 April 2024 - To: 28 November 2024
 
-Total Time: 107 hrs
+Total Time: 108 hrs 52 mins
 
-Rust             33 hrs 25 mins  >>>>>>>>-----------------   31.19 %
-C                31 hrs 21 mins  >>>>>>>------------------   29.25 %
-C++              26 hrs 4 mins   >>>>>>-------------------   24.33 %
-TeX              10 hrs 12 mins  >>-----------------------   09.53 %
-Markdown         1 hr 12 mins    -------------------------   01.12 %
+Rust             33 hrs 25 mins  >>>>>>>>-----------------   30.65 %
+C                31 hrs 21 mins  >>>>>>>------------------   28.75 %
+C++              26 hrs 4 mins   >>>>>>-------------------   23.91 %
+TeX              10 hrs 12 mins  >>-----------------------   09.36 %
+VHDL             2 hrs 49 mins   >------------------------   02.59 %
 ```
 
 <!--END_SECTION:waka-->
