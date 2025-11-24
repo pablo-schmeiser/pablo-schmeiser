@@ -1,6 +1,6 @@
 ### Hi there, I'm [Pablo Schmeiser](https://pablo-schmeiser.github.io) <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a seventh semester Computer Science student at [Karlsruher Institute of Technology](https://kit.edu), Germany.
+I am a nineth semester Computer Science student at [Karlsruher Institute of Technology](https://kit.edu), Germany.
 
 **My Interests**:
 - Cyber Security
