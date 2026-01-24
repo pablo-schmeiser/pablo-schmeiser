@@ -73,7 +73,7 @@ I am a nineth semester Computer Science student at [Karlsruher Institute of Tech
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 April 2024 - To: 21 January 2026
+From: 09 April 2024 - To: 22 January 2026
 
 Total Time: 267 hrs 41 mins
 
