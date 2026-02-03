@@ -10,7 +10,7 @@ I am a nineth semester Computer Science student at [Karlsruher Institute of Tech
  **I am open to**:
 
 - any collobration work,
-- internships and
+- internships and working student jobs,
 - available to become reviewer on GitHub projects.
 
 ## Skills:
@@ -18,8 +18,6 @@ I am a nineth semester Computer Science student at [Karlsruher Institute of Tech
 ### Languages:
 #### Experienced in:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![NextJS](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
@@ -30,6 +28,7 @@ I am a nineth semester Computer Science student at [Karlsruher Institute of Tech
 ![Go](https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
@@ -42,6 +41,7 @@ I am a nineth semester Computer Science student at [Karlsruher Institute of Tech
 ### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
