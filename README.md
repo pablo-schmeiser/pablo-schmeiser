@@ -1,6 +1,6 @@
 ### Hi there, I'm [Pablo Schmeiser](https://github.com/pablo-schmeiser) (DA6PTS) <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a nineth semester Computer Science student at [Karlsruher Institute of Technology](https://kit.edu), Germany.
+I am a nineth semester Computer Science student at [Karlsruher Institute of Technology](https://kit.edu), Germany - currently working on my bachelor's thesis in the field of cryptography at KIT's [KASTEL](https://www.kastel.kit.edu/) Labs.
 
 **My Interests**:
 - Cyber Security
