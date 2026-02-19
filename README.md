@@ -2,6 +2,8 @@
 
 I am a nineth semester Computer Science student at [Karlsruher Institute of Technology](https://kit.edu), Germany - currently working on my bachelor's thesis in the field of cryptography at KIT's [KASTEL](https://www.kastel.kit.edu/) Labs.
 
+**Maintainer of [Shiftings](https://github.com/HaDiNet/shiftings)**
+
 **My Interests**:
 - Cyber Security
 - Cryptography
