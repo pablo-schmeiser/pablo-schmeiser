@@ -75,15 +75,15 @@ I am a nineth semester Computer Science student at [Karlsruher Institute of Tech
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 April 2024 - To: 12 March 2026
+From: 09 April 2024 - To: 13 March 2026
 
-Total Time: 316 hrs 12 mins
+Total Time: 319 hrs 2 mins
 
-TeX               97 hrs 26 mins        >>>>>>>>-----------------   30.59 %
-Rust              35 hrs 51 mins        >>>----------------------   11.26 %
-C                 31 hrs 21 mins        >>-----------------------   09.84 %
-C++               26 hrs 14 mins        >>-----------------------   08.24 %
-Go                23 hrs 56 mins        >>-----------------------   07.52 %
+TeX               98 hrs 11 mins        >>>>>>>>-----------------   30.55 %
+Rust              35 hrs 51 mins        >>>----------------------   11.16 %
+C                 31 hrs 21 mins        >>-----------------------   09.76 %
+C++               26 hrs 14 mins        >>-----------------------   08.17 %
+Go                23 hrs 56 mins        >>-----------------------   07.45 %
 ```
 
 <!--END_SECTION:waka-->
