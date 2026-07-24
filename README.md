@@ -1,6 +1,6 @@
-### Hi there, I'm [Pablo Schmeiser](https://github.com/pablo-schmeiser) (DA6PTS) <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm [B.Sc. Pablo Schmeiser](https://github.com/pablo-schmeiser) (DA6PTS) <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a nineth semester Computer Science student at [Karlsruher Institute of Technology](https://kit.edu), Germany - currently working on my bachelor's thesis in the field of cryptography at KIT's [KASTEL](https://www.kastel.kit.edu/) Labs.
+I am a future Master's Student of Computer Science at [Karlsruher Institute of Technology](https://kit.edu), Germany and a Workingstudent in the Security Operations Team at [GMX, WEB.DE & mail.com](https://www.mail-and-media.com/). 
 
 **Maintainer of [Shiftings](https://github.com/HaDiNet/shiftings)**
 
@@ -12,23 +12,21 @@ I am a nineth semester Computer Science student at [Karlsruher Institute of Tech
  **I am open to**:
 
 - any collobration work,
-- internships and working student jobs,
 - available to become reviewer on GitHub projects.
 
 ## Skills:
 
 ### Languages:
 #### Experienced in:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![NextJS](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
-
 #### Previously used:
 ![Go](https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
@@ -36,12 +34,10 @@ I am a nineth semester Computer Science student at [Karlsruher Institute of Tech
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
 ### Database
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### Tools and Technologies
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)&nbsp;
 
@@ -55,13 +51,13 @@ I am a nineth semester Computer Science student at [Karlsruher Institute of Tech
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 #### IDEs
-
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=brightgreen)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&color=black&labelColor=orange)&nbsp;
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=black&color=black&labelColor=blue)&nbsp;
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=yellowgreen)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
+
 ## Connect with me:
 
 <p align = "center">
@@ -70,6 +66,7 @@ I am a nineth semester Computer Science student at [Karlsruher Institute of Tech
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/pablosmr1) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/pablo-schmeiser-691630208/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/pablo_smr52)
+
 </p>
 
 <!--START_SECTION:waka-->
