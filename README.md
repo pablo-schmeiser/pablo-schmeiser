@@ -1,4 +1,4 @@
-### Hi there, I'm [B.Sc. Pablo Schmeiser](https://github.com/pablo-schmeiser) (DA6PTS) <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm [Pablo Schmeiser](https://github.com/pablo-schmeiser) (DA6PTS) <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a future Master's Student of Computer Science at [Karlsruher Institute of Technology](https://kit.edu), Germany and a Workingstudent in the Security Operations Team at [GMX, WEB.DE & mail.com](https://www.mail-and-media.com/). 
 
