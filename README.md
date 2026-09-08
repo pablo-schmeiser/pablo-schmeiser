@@ -72,15 +72,15 @@ I am a future Master's Student of Computer Science at [Karlsruher Institute of T
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 April 2024 - To: 05 September 2026
+From: 09 April 2024 - To: 06 September 2026
 
-Total Time: 565 hrs 10 mins
+Total Time: 565 hrs 25 mins
 
-TeX               260 hrs 48 mins       >>>>>>>>>>>--------------   45.58 %
+TeX               260 hrs 48 mins       >>>>>>>>>>>--------------   45.56 %
 Python            58 hrs 16 mins        >>>----------------------   10.18 %
 Rust              35 hrs 52 mins        >>-----------------------   06.27 %
 C                 31 hrs 21 mins        >------------------------   05.48 %
-Markdown          27 hrs 51 mins        >------------------------   04.87 %
+Markdown          28 hrs 6 mins         >------------------------   04.91 %
 ```
 
 <!--END_SECTION:waka-->
