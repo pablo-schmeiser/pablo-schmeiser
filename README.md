@@ -72,7 +72,7 @@ I am a future Master's Student of Computer Science at [Karlsruher Institute of T
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 April 2024 - To: 10 October 2026
+From: 09 April 2024 - To: 11 October 2026
 
 Total Time: 593 hrs 34 mins
 
